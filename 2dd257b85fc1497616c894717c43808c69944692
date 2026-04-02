@@ -1,0 +1,62 @@
+src/mdm/agents/firebender.rs
+  ae6cdaef3e1f0091 228-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "2dd257b85fc1497616c894717c43808c69944692",
+  "prompts": {
+    "413181b8d4163e76": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775103567185",
+        "model": "gpt-5.4-xhigh"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "ae6cdaef3e1f0091": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775104406328",
+        "model": "gpt-5.4-xhigh"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "d36e76c532bd408e": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775103628167",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "e69acae0f4233bad": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775103653714",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 7,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
