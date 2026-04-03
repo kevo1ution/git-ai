@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "af31a73fe30275f9fd5d4f80d51401489ed6629c",
+  "prompts": {
+    "e69acae0f4233bad": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775103653714",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
