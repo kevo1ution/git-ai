@@ -1,0 +1,51 @@
+tests/integration/firebender.rs
+  cb6aa646a3724a1e 172-220
+src/commands/checkpoint_agent/agent_presets.rs
+  41073c176614ee65 8,3669-3680,3682,3684,3687
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "b8d00dbbf287f2191ebcc11ede8945909db06fb1",
+  "prompts": {
+    "41073c176614ee65": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775331237036",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 10,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    },
+    "cb6aa646a3724a1e": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775331255597",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 50,
+      "total_deletions": 0,
+      "accepted_lines": 50,
+      "overriden_lines": 0
+    },
+    "e69acae0f4233bad": {
+      "agent_id": {
+        "tool": "firebender",
+        "id": "firebender-1775103653714",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Kevin Tang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
